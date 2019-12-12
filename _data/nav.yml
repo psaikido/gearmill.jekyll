@@ -4,40 +4,40 @@ menu:
   url: /index.html
   children:
     - title: About
-      url: /index.html
+      url: /pages/about.html
     - title: History
-      url: /index.html
+      url: /pages/history.html
     - title: Dedication
-      url: /index.html
+      url: /pages/dedication.html
     - title: Gallery
-      url: /index.html
+      url: /pages/gallery.html
 
 - title: Retreat
-  url: /index.html
+  url: /pages/retreat-hut.html
   children:
     - title: Retreat Hut
-      url: /index.html
+      url: /pages/retreat-hut.html
     - title: Booking
-      url: /index.html
+      url: /pages/booking.html
 
 - title: Meditation
-  url: /index.html
+  url: /pages/mahamudra.html
   children:
     - title: Mahamudra 
-      url: /index.html
+      url: /pages/mahamudra.html
     - title: Chan
-      url: /index.html
+      url: /pages/chan.html
     - title: Mindfulness
-      url: /index.html
+      url: /pages/mindfulness.html
 
 - title: Chi Kung
-  url: /index.html
+  url: /pages/chi-kung.html
 
 - title: Calendar
-  url: /index.html
+  url: /pages/calendar.html
 
 - title: Contact
-  url: /index.html
+  url: /pages/contact.html
   children:
     - title: Links 
-      url: /index.html
+      url: /pages/links.html
