@@ -1,11 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ site.title }}- {{ page.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  </head>
+    {% include head.html %}
   <body>
     <div id="wrap">
         <div id="outer">
@@ -18,7 +13,7 @@
                     </div>
 
                     <div id="menu">
-                        *menu template="dropDownMenu" start_level="1" number_of_levels="2"* 
+                        {% include nav.html %}
                     </div>
 
                     <div id="content">

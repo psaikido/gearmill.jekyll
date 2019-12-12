@@ -1,0 +1,19 @@
+<div id="menuwrapper">
+    <ul id="primary-nav">
+        {% for item in site.data.nav.menu %}
+            <li class="menuactive menuparent">
+                <a class="menuactive menuparent" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                {% if item.children %}
+                    <ul>
+                    {% for item in item.children %}
+                    <li>
+                        <a class="menuactive" href="{{ item.url }}" alt="{{ item.title }}">{{ item.title }}</a>
+                    </li>
+                    {% endfor %}
+                    </ul>
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+

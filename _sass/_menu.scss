@@ -1,0 +1,51 @@
+#menu {
+    float: right;
+    width: 74%;
+}
+#menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+#menu li {
+    color: #333;
+}
+#menu li a:link,
+#menu li a:visited {
+    font-size: 15px;
+    font-weight: bold;
+    color: #444;
+    text-decoration: none;
+}
+#menu ul#primary-nav {
+    height: 50px;
+}
+#menu ul#primary-nav li {
+    float: left;
+    margin-left: 26px;
+    position: relative;
+    width: 110px;
+    height: 25px;
+    line-height: 25px;
+    padding: 3px;
+}
+#menu ul#primary-nav li a.menuactive {
+    text-decoration: underline;
+}
+#menu ul#primary-nav li.menuparent ul {
+    display: none;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 25px;
+}
+#menu ul#primary-nav li.menuparent:hover ul {
+    display: block;
+}
+#menu ul#primary-nav li.menuparent ul li {
+    clear: both;
+    margin-left: 0;
+    position: relative;
+    z-index: 1;
+    background-color: #fff;
+}
