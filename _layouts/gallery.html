@@ -6,12 +6,15 @@
 {% for gallery in site.data.galleries %}
 
     {% if gallery.id == page.galleryId %}
-        <div class="img">
+        <div class="gallery">
             {% for image in gallery.images %}
-                <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
-                  <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" class="thumb" />
-                </a>
+                <div class="img">
+                    <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+                        <img src="{{ gallery.imagefolder }}/thumbs/{{ image.thumb }}" class="thumb" />
+                    </a>
+                </div>
             {% endfor %}
+            <div class="galleryclear">&nbsp;</div>
         </div>
     {% endif %}
 
