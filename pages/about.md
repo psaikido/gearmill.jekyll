@@ -9,4 +9,4 @@ Adjoining the mill is a stone retreat hut, Tara Ling, welcoming guests and those
 
 We are glad to share our vision of a place offering space for contemplation, inspiration and renewal.
 
-![Gear Mill](/assets/images/Gallery/housePath.jpg "house path"){: .center-img }
+![Gear Mill](/assets/images/gallery/housePath.jpg "house path"){: .center-img }

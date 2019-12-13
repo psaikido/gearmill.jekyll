@@ -1,0 +1,20 @@
+{% include bodyUpper.html %}
+
+<script src="/assets/js/lightbox-2.6.min.js"></script>
+<link href="/assets/css/lightbox.css" rel="stylesheet" />
+
+{% for gallery in site.data.galleries %}
+
+    {% if gallery.id == page.galleryId %}
+        <div class="img">
+            {% for image in gallery.images %}
+                <a href="{{ gallery.imagefolder }}/{{ image.name }}" data-lightbox="{{ gallery.id }}" title="{{ image.text }}">
+                  <img src="{{ gallery.imagefolder }}/{{ image.thumb }}" class="thumb" />
+                </a>
+            {% endfor %}
+        </div>
+    {% endif %}
+
+{% endfor %}
+
+{% include bodyLower.html %}

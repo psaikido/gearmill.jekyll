@@ -13,4 +13,4 @@ title: "Links"
     <li><a href="http://www.taironatrust.org/">Tairona Trust</a></li>
 </ul>
 
-![Gear Mill](/assets/images/Gallery/IMG_2189.jpeg "leaves"){: .center-img }
+![Gear Mill](/assets/images/gallery/IMG_2189.jpeg "leaves"){: .center-img }

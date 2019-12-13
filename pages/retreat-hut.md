@@ -22,4 +22,4 @@ Single booking £25 per night; £170 per week
 
 Two people £30 per night; £200 per week See: Booking
 
-![Gear Mill](/assets/images/Gallery/hut.jpg "hut"){: .center-img }
+![Gear Mill](/assets/images/gallery/hut.jpg "hut"){: .center-img }

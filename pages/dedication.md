@@ -32,5 +32,5 @@ OM TARE TUTTARE TURE SWAHA
 
 Chuang deng Jing di, Chan Master John Crook, August 2007 
 
-![Gear Mill](/assets/images/Gallery/IMG_1746.jpeg "Tara stone"){: .center-img }
+![Gear Mill](/assets/images/gallery/IMG_1746.jpeg "Tara stone"){: .center-img }
 _Om tare tuttare ture swaha_

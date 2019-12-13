@@ -8,7 +8,7 @@ Occasional meetings for the practice of Chenrezig, 'The Great Compassionate One'
 
 Evenings or Sunday mornings
 
-![Chenrezig](/assets/images/Gallery/chenrezig.jpg "Chenrezig"){: .center-img }
+![Chenrezig](/assets/images/gallery/chenrezig.jpg "Chenrezig"){: .center-img }
 _Chenrezig, Kardang Gom-pa, Keylong, Lahoul, Himachal Pradesh, India, 2012_
 
 # Green Tara
@@ -16,7 +16,7 @@ Occasional meetings for the practice of Tara, Mother of Buddhas. Bodhisattva of 
 
 Evenings or Sunday mornings
 
-![Green Tar](/assets/images/Gallery/tara.jpg "Tara"){: .center-img }
+![Green Tar](/assets/images/gallery/tara.jpg "Tara"){: .center-img }
 _Green Tara, Kardang Gom-pa, Keylong, Lahoul, Himachal Pradesh, India, 2012_
 
 Please contact: sophie@gearmill.org for further details.

@@ -29,6 +29,13 @@ body {
 #content img {
     width: 100%;
 }
+#content img.thumb {
+    height: 120px;
+    width: auto;
+    float: left;
+    margin: 10px;
+    text-align: center;
+}
 #inner {
     position: relative;
 }

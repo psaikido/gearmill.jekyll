@@ -1,6 +1,6 @@
 ---
-layout: default
+layout: gallery
 title: "Gallery"
+galleryId: gallery1
 ---
 
-thumbs

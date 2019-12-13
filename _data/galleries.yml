@@ -1,0 +1,27 @@
+- id: gallery1
+  description: This is the first gallery
+  imagefolder: /assets/images/gallery
+  images:
+  - name: IMG_2350.jpeg
+    thumb: IMG_2350.jpeg
+    text: Chenrezig
+  - name: tara.jpg
+    thumb: thumb_tara.jpg
+    text:  Green Tara
+  - name: kwanyin.jpg
+    thumb: thumb_kwanyin.jpg
+    text: Kwanyin
+
+- id: gallery2
+  description: This is the first gallery
+  imagefolder: /assets/images/gallery
+  images:
+  - name: chenrezig.jpg
+    thumb: thumb-chenrezig.jpg
+    text: Chenrezig
+  - name: tara.jpg
+    thumb: thumb-tara.jpg
+    text:  Green Tara
+  - name: kwanyin.jpg
+    thumb: thumb-kwanyin.jpg
+    text: Kwanyin

@@ -22,5 +22,5 @@ She has also trained at the Oxford Mindfulness Centre, offering courses based on
  
 Sophie has led mindful movement sessions for MBCT retreats at Gaia House, drawing also from her experience teaching T'ai Chi for nearly 20 years between 1995 and 2014.
 
-![Gear Mill](/assets/images/Gallery/IMG_4789.jpeg "snow"){: .center-img }
+![Gear Mill](/assets/images/gallery/IMG_4789.jpeg "snow"){: .center-img }
 

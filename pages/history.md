@@ -14,4 +14,4 @@ they form the Mystic Mother
 from whose gate comes the origin of heaven and earth."
 Tao Te Ching  (Ch’u Ta Kao, trans.)
 
-![Gear Mill](/assets/images/Gallery/IMG_4736.jpeg "snow"){: .center-img }
+![Gear Mill](/assets/images/gallery/IMG_4736.jpeg "snow"){: .center-img }

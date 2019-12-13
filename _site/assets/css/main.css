@@ -4,6 +4,18 @@ body { background: #cfcfcf; color: #444; padding: 20px; font-size: 14px; font-fa
 
 #headerContent { font-size: 40px; width: 20%; float: left; }
 
+#content { clear: both; min-height: 776px; position: relative; z-index: 0; padding: 20px; }
+
+#content img { width: 100%; }
+
+#content img.thumb { height: 120px; width: auto; float: left; margin: 10px; text-align: center; }
+
+#inner { position: relative; }
+
+#content ul { list-style: none; }
+
+#content ul li { margin-bottom: 10px; }
+
 #menu { float: right; width: 74%; }
 
 #menu ul { list-style: none; margin: 0; padding: 0; }
@@ -23,15 +35,5 @@ body { background: #cfcfcf; color: #444; padding: 20px; font-size: 14px; font-fa
 #menu ul#primary-nav li.menuparent:hover ul { display: block; }
 
 #menu ul#primary-nav li.menuparent ul li { clear: both; margin-left: 0; position: relative; z-index: 1; background-color: #fff; }
-
-#content { clear: both; min-height: 776px; position: relative; z-index: 0; padding: 20px; }
-
-#content img { width: 100%; }
-
-#inner { position: relative; }
-
-#content ul { list-style: none; }
-
-#content ul li { margin-bottom: 10px; }
 
 /*# sourceMappingURL=main.css.map */
