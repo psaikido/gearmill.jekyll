@@ -26,8 +26,16 @@ body {
     z-index: 0;
     padding: 20px;
 }
-#content img {
+#content img.center-img {
     width: 100%;
+}
+#content .col-left {
+    width: 50%;
+    float: left;
+}
+#content .col-right {
+    width: 48%;
+    float: right;
 }
 #content img.thumb {
     height: 120px;

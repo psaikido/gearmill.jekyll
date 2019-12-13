@@ -1,6 +1,9 @@
 {% include bodyUpper.html %}
 
-    <h3>{{ page.title }}</h3>
+    {% if page.url != '/' %}
+        <h3>{{ page.title }}</h3>
+    {% endif %}
+
     {{ content }}
 
 {% include bodyLower.html %}

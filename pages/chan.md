@@ -12,7 +12,8 @@ title: "Chan"
  
 Meets 1st and 3rd Monday, 7.30-9.30pm
  
-Generally, Lizard Chan group meets 1st Monday at Gear Mill and 3rd Monday at Roselidden Farm www.roselidden.co.uk
+Generally, Lizard Chan group meets 1st Monday at Gear Mill and 3rd Monday at 
+Roselidden Farm [Roselidden.co.uk](http://www.roselidden.co.uk)
   
 
 _"A special transmission outside the scriptures  

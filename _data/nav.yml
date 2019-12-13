@@ -1,7 +1,7 @@
 menu:
 
 - title: Home
-  url: /index.html
+  url: /
   children:
     - title: About
       url: /pages/about.html
