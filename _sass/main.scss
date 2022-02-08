@@ -10,16 +10,19 @@ body {
     font-size: 14px;
     font-family: Georgia, verdana, kalimati, helvetica, serif;
 }
+
 #wrap {
     box-shadow: 0 2px 6px rgba(100, 100, 100, 0.3);
     background-color: #f6f0f0;
     padding: 30px;
 }
+
 #headerContent {
     font-size: 40px;
     width: 20%;
     float: left;
 }
+
 #content {
     clear: both;
     min-height: 776px;
@@ -69,6 +72,10 @@ body {
     hr {
         border: none;
         border-bottom: 1px solid $muted;
+    }
+
+    .clear {
+        clear: both;
     }
 }
 
