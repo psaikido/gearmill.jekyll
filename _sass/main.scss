@@ -1,6 +1,7 @@
 $backgroundColor: #cfcfcf;
 $bodyColor: #000000;
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+$muted: #ccc;
 
 body {
     background: $backgroundColor;
@@ -25,31 +26,52 @@ body {
     position: relative;
     z-index: 0;
     padding: 20px;
+
+    img.center-img {
+        width: 100%;
+    }
+
+    .col-left {
+        width: 50%;
+        float: left;
+    }
+
+    .col-right {
+        width: 48%;
+        float: right;
+    }
+
+    img.thumb {
+        height: 120px;
+        width: auto;
+        float: left;
+        margin: 10px;
+        text-align: center;
+    }
+
+    ul {
+        list-style:  none;
+    }
+
+    ul li {
+        margin-bottom:  10px;
+    }
+
+    h2.page-title {
+        border-bottom: 1px solid $muted;
+    }
+
+    h3 {
+        padding-top: 20px;
+        border-bottom: 1px solid $muted;
+    }
+
+    hr {
+        border: none;
+        border-bottom: 1px solid $muted;
+    }
 }
-#content img.center-img {
-    width: 100%;
-}
-#content .col-left {
-    width: 50%;
-    float: left;
-}
-#content .col-right {
-    width: 48%;
-    float: right;
-}
-#content img.thumb {
-    height: 120px;
-    width: auto;
-    float: left;
-    margin: 10px;
-    text-align: center;
-}
+
 #inner {
     position: relative;
-}
-#content ul {
-    list-style:  none;
-}
-#content ul li {
-    margin-bottom:  10px;
 }
