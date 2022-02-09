@@ -5,16 +5,16 @@ img-title: flag
 img: gallery/IMG_2173.jpeg
 ---
 
-### White Crane 
+#### White Crane 
 
 Classes on Tuesday mornings, 9.30am - 10.45am with Sophie Muir
 
 £10 ( concessions available ).
 
 
-# Open Gatherings
+### Open Gatherings:
 
-### Forest Chi 
+#### Forest Chi 
 
 At Gear Mill
 
@@ -24,7 +24,7 @@ Sunday 20th March
 
 
 
-### River Chi
+#### River Chi
 
 Tremayne Quay
 
@@ -34,7 +34,7 @@ Sunday 24th April
 
 
 
-### Ocean Chi
+#### Ocean Chi
 
 Gunwalloe Church Cove
 
