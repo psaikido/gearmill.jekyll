@@ -1,0 +1,29 @@
+/* Most mobiles */
+@media only screen
+  and (min-device-width: 360px)
+  and (max-device-width: 740px) {
+
+      body {
+          padding: 0;
+      }
+
+      #wrap {
+          padding: 3px;
+      }
+
+      #header-content {
+          width: 50%;
+      }
+
+      #menu {
+          width: 45%;
+      }
+
+      #content {
+          .col-left,
+          .col-right {
+              width: 100%;
+              float: none;
+          }
+      }
+}
