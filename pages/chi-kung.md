@@ -20,7 +20,7 @@ At Gear Mill
 
 Sunday 20th March
 
-2pm - 3pm
+2pm - 3.15pm
 
 
 
@@ -30,7 +30,7 @@ Tremayne Quay
 
 Sunday 24th April
 
-2pm - 3pm
+2pm - 3.15pm
 
 
 
@@ -40,11 +40,11 @@ Gunwalloe Church Cove
 
 Sunday 22nd May
 
-2pm - 3pm
+2pm - 3.15pm
 
 
 <hr />
-By donation (all donations gratefully received and will be offered to [tairontrust](https://www.taironatrust.org))
+By donation (all donations gratefully received and will be offered to [taironatrust](https://www.taironatrust.org))
 
 Please see [alunamovement.org](https://www.alunamovement.org) for more information
 

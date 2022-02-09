@@ -1,16 +1,15 @@
 ---
-layout: default
+layout: two-col
 title: "Links"
+img-title: leaves
+img: gallery/IMG_2189.jpeg
 ---
 
-<ul>
-    <li><a href="http://www.marpahouse.org.uk">Marpa House</a></li>
-    <li><a href="http://westernchanfellowship.org">Western Chan Fellowship</a></li>
-    <li><a href="http://www.cornwallbuddhists.org/">Cornwall Buddhists</a></li>
-    <li><a href="http://www.mindfulnesscornwall.co.uk/">Mindfulness Cornwall</a></li>
-    <li><a href="/www.mindfulnessinschools.org">Mindfulness in Schools</a></li>
-    <li><a href="/www.dorkemmyn.org.uk">Dor Kemmyn</a></li>
-    <li><a href="http://www.taironatrust.org/">Tairona Trust</a></li>
-</ul>
+- [Marpa House](https://www.marpahouse.org.uk)
+- [Western Chan Fellowship](https://westernchanfellowship.org)
+- [Cornwall Buddhists](https://www.cornwallbuddhists.org/)
+- [Mindfulness Cornwall](https://www.mindfulnesscornwall.co.uk)
+- [Dor Kemmyn](https://www.dorkemmyn.org.uk)
+- [Tairona Trust](http://www.taironatrust.org)
+- [Aluna Movement](https://www.alunamovement.org)
 
-![Gear Mill](/assets/images/gallery/IMG_2189.jpeg "leaves"){: .center-img }
