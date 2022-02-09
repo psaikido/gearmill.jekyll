@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: two-col
 title: "Chi Kung"
+img-title: flag
+img: gallery/IMG_2173.jpeg
 ---
-
-<div class="col-left" markdown="1">
 
 ### White Crane 
 
@@ -12,11 +12,9 @@ Classes on Tuesday mornings, 9.30am - 10.45am with Sophie Muir
 £10 ( concessions available ).
 
 
+# Open Gatherings
 
-
-### Open Gatherings
-
-Forest Chi 
+### Forest Chi 
 
 At Gear Mill
 
@@ -50,11 +48,4 @@ By donation (all donations gratefully received and will be offered to [tairontru
 
 Please see [alunamovement.org](https://www.alunamovement.org) for more information
 
-</div>
-
-<div class="col-right" markdown="1">
-
-![Gear Mill](/assets/images/gallery/IMG_2173.jpeg "flag"){: .center-img }
-
-</div>
 

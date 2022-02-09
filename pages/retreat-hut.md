@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: two-col
 title: "Retreat Hut"
+img-title: hut
+img: gallery/hut.jpg
 ---
 
-Tara-Ling Retreat Hut
 Tara-Ling retreat hut sleeps one person comfortably and can sleep two. It has a hand- carved wooden 4’ double bed, wood-burner, out-door covered kitchen and terrace with vine.
 
 The stone hut is next to the woods and stream and is available for full or semi-retreat for between 2 and 7 days. The hut has electricity, however at present no running water, so water needs to be collected.
@@ -22,4 +23,3 @@ Single booking £25 per night; £170 per week
 
 Two people £30 per night; £200 per week See: Booking
 
-![Gear Mill](/assets/images/gallery/hut.jpg "hut"){: .center-img }

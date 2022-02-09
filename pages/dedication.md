@@ -1,14 +1,12 @@
 ---
-layout: default
+layout: two-col
 title: "Dedication"
+img-title: Tara stone
+img: gallery/IMG_1746.jpeg
 ---
 
-<div class="col-left" markdown="1">
+### DEDICATION AND EMPOWERMENT OF THE GREEN TARA STONE OF THE WOODS AND WATERS GEAR MILL, CORNWALL  
 
-### DEDICATION AND EMPOWERMENT  
-### OF THE GREEN TARA STONE  
-### OF THE WOODS AND WATERS  
-### GEAR MILL, CORNWALL  
 We bless this stone with the empowerment of the spirit  
 of Green Tara  
 May her mantra permeate this temple by the waters,  
@@ -37,11 +35,4 @@ OM TARE TUTTARE TURE SWAHA
 
 Chuang deng Jing di, Chan Master John Crook, August 2007 
 
-</div>
-
-<div class="col-right" markdown="1">
-
-![Gear Mill](/assets/images/gallery/IMG_1746.jpeg "Tara stone"){: .center-img}
 _Om tare tuttare ture swaha_
-
-</div>

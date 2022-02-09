@@ -1,0 +1,15 @@
+{% include bodyUpper.html %}
+
+    {% if page.url != '/' %}
+        <h3 class="page-title">{{ page.title }}</h3>
+    {% endif %}
+
+    <div class="col-left" markdown="1">
+        {{ content }}
+    </div>
+
+    <div class="col-right" markdown="1">
+        <img src="/assets/images/{{ page.img }}" alt="{{ page.img-title }}" class="center-img" />
+    </div>
+
+{% include bodyLower.html %}

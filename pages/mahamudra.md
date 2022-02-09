@@ -19,7 +19,7 @@ Evenings or Sunday mornings
 ![Green Tar](/assets/images/gallery/tara.jpg "Tara"){: .center-img }
 _Green Tara, Kardang Gom-pa, Keylong, Lahoul, Himachal Pradesh, India, 2012_
 
-Please contact: sophie@gearmill.org for further details.
+Please contact: sophie(at)gearmill.org for further details.
 
  
 ### Please see Mahamudra Cornwall Facebook page for events and groups.

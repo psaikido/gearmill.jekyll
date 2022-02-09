@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: two-col
 title: "History"
+img-title: snow
+img: gallery/IMG_4736.jpeg
 ---
-
-<div class="col-left" markdown="1">
 
 First established by monks of St Michael’s Mount at the creek head in 1262, Gear Mill has a long working history, standing by the tidal water of the Helford River, absorbed in its timeless rhythm.
 
@@ -16,10 +16,3 @@ they form the Mystic Mother
 from whose gate comes the origin of heaven and earth."
 Tao Te Ching  (Ch’u Ta Kao, trans.)
 
-</div>
-
-<div class="col-right" markdown="1">
-
-![Gear Mill](/assets/images/gallery/IMG_4736.jpeg "snow"){: .center-img}
-
-</div>
