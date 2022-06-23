@@ -21,7 +21,7 @@ Rates for hire of the retreat hut:
 
 Single booking £30 per night; £200 per week
 
-Two people £30 per night; £200 per week  
+Two people £35 per night; £240 per week
 
 See: [Booking](/pages/booking.html)
 
