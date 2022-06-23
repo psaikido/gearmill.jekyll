@@ -1,5 +1,5 @@
 ---
-layout: two-col
+layout: default 
 title: "Contact"
 img-title: jungle
 img: gallery/contact.jpg
@@ -7,9 +7,6 @@ img: gallery/contact.jpg
 
 For all enquiries please contact: sophie(at)gearmill.org  
 01326 221651 
-
-
-<hr />
 
 
 _Gear Mill_
@@ -21,5 +18,7 @@ _here everything is moist_
 _With Buddha Nature_
 
 
-
 _R.B. 11.11.11_
+
+![jungle](/assets/images/gallery/contact.jpg){: .center-img }
+
