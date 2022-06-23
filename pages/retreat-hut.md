@@ -19,7 +19,9 @@ Dedicated to Tara, female Buddha of Compassion, Tara-Ling means Tara’s Place: 
 
 Rates for hire of the retreat hut:
 
-Single booking £25 per night; £170 per week
+Single booking £30 per night; £200 per week
 
-Two people £30 per night; £200 per week See: Booking
+Two people £30 per night; £200 per week  
+
+See: [Booking](/pages/booking.html)
 
