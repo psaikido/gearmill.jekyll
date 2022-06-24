@@ -53,6 +53,12 @@ body {
     .col-right {
         width: 48%;
         float: right;
+
+        &.poem {
+            line-height: 36px;
+            font-style: italic;
+            font-weight: bold;
+        }
     }
 
     img.thumb {

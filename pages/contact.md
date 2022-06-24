@@ -1,24 +1,28 @@
 ---
 layout: default 
 title: "Contact"
-img-title: jungle
-img: gallery/contact.jpg
 ---
 
+<span>
 For all enquiries please contact: sophie(at)gearmill.org  
 01326 221651 
+</span>
+{: .col-left}
 
 
-_Gear Mill_
+<div class="col-right poem">
+Gear Mill<br />
 
-_where Dharma drops from the trees_
+where Dharma drops from the trees<br />
 
-_here everything is moist_
+here everything is moist<br />
 
-_With Buddha Nature_
+With Buddha Nature<br />
 
+R.B. 11.11.11
 
-_R.B. 11.11.11_
+</div>
+
 
 ![jungle](/assets/images/gallery/contact.jpg){: .center-img }
 
