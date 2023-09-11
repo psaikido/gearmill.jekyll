@@ -28,4 +28,5 @@ Single booking £25 per night
 Two people £30 per night
 
 
-![Gear Mill](/assets/images/gallery/hut.jpg "hut"){: .center-img }
+![Gear Mill](/assets/images/gallery/IMG_2423.jpeg "hut")
+![Gear Mill](/assets/images/gallery/IMG_2432.jpeg "hut")
