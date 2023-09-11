@@ -5,7 +5,8 @@ title: "Retreat Hut"
 
 ## Tara-Ling Retreat Hut
 
-Tara-Ling Retreat Hut
+
+<div class="col-left" markdown="1">
 
 Tara-Ling retreat hut sleeps one person comfortably, and can sleep two. 
 
@@ -27,6 +28,9 @@ Single booking £25 per night
 
 Two people £30 per night
 
+</div>
 
+<div class="col-right" markdown="1">
 ![Gear Mill](/assets/images/gallery/IMG_2423.jpeg "hut")
 ![Gear Mill](/assets/images/gallery/IMG_2432.jpeg "hut")
+</div>

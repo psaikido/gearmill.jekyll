@@ -5,6 +5,7 @@ title: "Mindfulness"
 
 # Mindfulness & Creativity
  
+<div class="col-left" markdown="1">
 Six week courses on Mindfulness & Creativity, each New Year: next group January 2024
 
 Thursday mornings 10.00am - 11.30am 
@@ -18,7 +19,10 @@ Sophie has a Post Graduate Diploma in Mindfulness Based Approaches from the Univ
 She trained with the Mindfulness in Schools Project and has taught courses in West Cornwall to pupils and staff in schools. She has also trained at the Oxford Mindfulness Centre and led courses for students and staff at Falmouth University and Exeter University, Penryn campus.
 
 Sophie has led mindful movement sessions for MBCT retreats at Gaia House, drawing from her experience teaching T’ai Chi and Chi Kung since 1995.
+</div>
 
 
+<div class="col-right" markdown="1">
 ![Gear Mill](/assets/images/gallery/IMG_4789.jpeg "snow"){: .center-img }
+</div>
 

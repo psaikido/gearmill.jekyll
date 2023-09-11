@@ -9,12 +9,19 @@ First established by monks of St Michael’s Mount at the creek head in 1262, Ge
 
 In a beautiful valley situated beside ruins of the higher mills, the New Mill was the last mill to be built in Cornwall in 1922. Forming a natural sanctuary, Gear Mill is now a home and practice centre, hosting meditation groups, daylong and residential retreats.
 
-Although the 30 ft waterwheel is no longer in existence, a wheel of Dharma, community and friendship turns. Visitors are warmly welcome to partake in the peace and beauty of this ancient place.
+Although the 30 ft waterwheel is no longer in existence, a wheel of Dharma, community and friendship turns. 
 
-"The Valley & the Spirit never die
-they form the Mystic Mother
-from whose gate comes the origin of heaven and earth."
-Tao Te Ching  (Ch’u Ta Kao, trans.)
+Visitors are warmly welcome to share in the peace and beauty of this ancient place.
+
+
+
+"The valley spirit never dies,
+
+it is the primordial Mother from whose gate 
+
+springs the origin of heaven and earth."
+
+_Tao Te Ching chapter 6_
 
 </div>
 
