@@ -5,7 +5,7 @@ title: "Chi Kung"
 
 Classes on Tuesday mornings, 9.30am - 10.45am with Sophie 01326 221651
 
-In this class practice White Crane along with various other Chi Kung exercises.
+In this class we practice White Crane along with various other Chi Kung exercises.
 
 £10/£7 concessions - newcomers welcome.
 
